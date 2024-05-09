@@ -1,7 +1,7 @@
 package rapidyenc
 
 /*
-#cgo CFLAGS: -O3
+#cgo CXXFLAGS: -O3
 
 #include "rapidyenc.h"
 */
